@@ -3,7 +3,7 @@
 # Sistema de Gerenciamento de Estacionamento Rotativo
 
 ## Nome e Matrícula
-- Nome: Douglas Rafael
+- Nome: Douglas Rafael Farias Araujo
 - Matrícula: 20240005626  
 
 ## Descrição do Problema
