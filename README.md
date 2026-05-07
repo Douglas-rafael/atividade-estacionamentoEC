@@ -4,8 +4,6 @@
 - Nome: Douglas Rafael Farias Araujo
 - Matrícula: 20240005626  
 
-# Sistema de Gerenciamento de Estacionamento Rotativo
-
 ## Descrição do Problema
 Este projeto implementa um sistema que gerencia um estacionamento rotativo. Ele calcula o valor a pagar conforme o tipo de veículo e tempo de permanência, aplicando regras de desconto ou multa quando necessário. O sistema exibe todas as informações do veículo e o valor final ao usuário.
 
